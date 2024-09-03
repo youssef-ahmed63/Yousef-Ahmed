@@ -1,0 +1,288 @@
+
+.background{
+    background-color: rgb(0, 49, 54);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.imge1{
+    width: 80px;
+    height: 80px;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.imge2{
+    width: 400px;
+    height: 87.8vh;
+    border-radius:  200px;
+    box-shadow: 7px 5px 10px rgb(8, 8, 8);
+    border:3px solid rgb(120, 117, 117) ;
+
+}
+
+.top-bar{
+    background-color: rgba(137, 130, 130, 0.511);
+    position: sticky;
+    top: 0px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    font-family:cursive;
+}
+.علشان-الصورة-و-الكلام-التعريفي-يبقوا-جنب-بعض
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.who{
+    font-size: 80px;
+    margin-top: 53px;
+font-family: sans-serif;
+}
+.text2{
+margin-bottom:300px ;
+margin-left: 200px;
+color: aliceblue;
+}
+.small-font-skills{
+margin-top:-60px ;
+margin-left: 50px;
+}
+.right-side{
+    display: flex;
+flex-direction:column;
+justify-content: center;
+    align-items: center;
+
+}
+.define{
+    display: flex;
+    align-items: center;
+    margin-top:-220px ;
+    gap: 50px;
+}
+.define-text{
+    color: rgb(255, 254, 254); 
+font-family:cursive;
+}
+.imge3{
+    width: 150px;
+    height: 250px;
+    border-radius: 25px;
+    border:5px solid rgb(120, 117, 117) ;
+    box-shadow: 7px 5px 10px rgb(8, 8, 8);
+    margin-left: 50px;
+margin-top: -50px;
+}
+
+.idiom{ 
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 600px;
+    padding-left: 50px;
+    border: 3px solid rgb(98, 98, 197);
+    border-radius: 60px;
+position: static;
+}
+.idiom-head{
+color: rgb(0, 184, 184);
+
+}
+
+.idiom-text{
+color: rgb(229, 235, 235);
+font-family:cursive;
+
+}
+
+
+.skill-head{
+  color: aquamarine;  
+margin-top: 70px;
+  display: flex;
+justify-content: center;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.c{
+display: flex;
+align-items: center;
+gap: 100px;
+margin-right: 200px;
+margin-left: 20px;
+margin-top: 80px;
+border: 3px solid rgb(172, 167, 247);
+border-radius: 50px ;
+box-shadow: 5px 5px 10px rgb(115, 32, 232);
+}
+.imge4{ 
+    margin-left: 40px;
+margin-top: 10px;
+margin-bottom: 10px;
+border-right: 4px solid;
+border-bottom: 4px solid ;
+border-color: rgb(168, 168, 255);
+box-shadow: 7px 5px 50px rgb(126, 103, 255) ;
+width: 300px;
+height: 150px;
+border-radius: 50px;
+}
+.c-text{
+font-size: xx-large; 
+color: rgb(236, 244, 244);
+font-family:cursive;
+
+
+}
+
+.html{
+    display: flex;
+align-items: center;
+gap: 100px;
+margin-right: 200px;
+margin-left: 20px;
+margin-top: 80px;
+border: 3px solid rgb(172, 167, 247);
+border-radius: 50px ;
+box-shadow: 5px 5px 10px rgb(115, 32, 232);
+ 
+}
+.imge5{
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-right: 4px solid;
+    border-bottom: 4px solid ;
+    border-color: rgb(168, 168, 255);
+    box-shadow: 7px 5px 50px rgb(126, 103, 255) ;
+    width: 300px;
+    height: 150px;
+    border-radius: 50px;
+    
+}
+.html-text{
+    font-size: xx-large; 
+    color: rgb(236, 244, 244);
+    font-family:cursive;
+}
+
+.css{
+    display: flex;
+align-items: center;
+gap: 100px;
+margin-right: 200px;
+margin-left: 20px;
+margin-top: 80px;
+border: 3px solid rgb(172, 167, 247);
+border-radius: 50px ;
+box-shadow: 5px 5px 10px rgb(115, 32, 232);
+
+}
+
+.imge6{
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-right: 4px solid;
+    border-bottom: 4px solid ;
+    border-color: rgb(168, 168, 255);
+    box-shadow: 7px 5px 50px rgb(126, 103, 255) ;
+    width: 300px;
+    height: 150px;
+    border-radius: 50px;
+ 
+}
+
+.css-text{
+    font-size: xx-large; 
+    color: rgb(236, 244, 244);
+    font-family:cursive;
+
+}
+
+
+.js{
+    display: flex;
+align-items: center;
+gap: 100px;
+margin-right: 200px;
+margin-left: 20px;
+margin-top: 80px;
+border: 3px solid rgb(172, 167, 247);
+border-radius: 50px ;
+box-shadow: 5px 5px 10px rgb(115, 32, 232);
+
+}
+
+.imge7{
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-right: 4px solid;
+    border-bottom: 4px solid ;
+    border-color: rgb(168, 168, 255);
+    box-shadow: 7px 5px 50px rgb(126, 103, 255) ;
+    width: 300px;
+    height: 150px;
+    border-radius: 50px;
+ 
+}
+
+.js-text{
+    font-size: xx-large; 
+    color: rgb(236, 244, 244);
+    font-family:cursive;
+
+}
+.contact{
+    display: flex;
+
+flex-direction: column;  
+align-items: center;
+   gap: 30px;
+ margin-top: 40px;
+ background-color: rgb(0, 24, 45);
+}
+
+
+.contact-text{
+    color: aquamarine;  
+    margin-top: 70px;
+        font-size: 50px;
+        font-family: sans-serif;
+    }
+
+.contact-link
+{display: flex;
+gap: 40px;
+margin-bottom: 40px;
+}
+
+.gmail{ margin-top: 20px;  
+    width: 40px;
+    height: 40px;
+
+}
+.whats{ margin-top: 20px;  
+
+    width: 40px;
+    height: 40px;
+
+}
+.linkedin{ 
+margin-top: 20px;  
+width: 40px;
+height: 40px;
+
+}
+
+
+
+
+
+

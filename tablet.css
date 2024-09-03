@@ -1,0 +1,149 @@
+@media screen and (max-width:900px) {
+
+    .علشان-الصورة-و-الكلام-التعريفي-يبقوا-جنب-بعض
+{
+    display: flex;
+flex-direction: column;
+
+}
+.imge2{
+    width: 200px;
+    height: 200px;
+
+}
+.define{
+   
+}
+.idiom{width: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding-left: 50px;
+
+}
+#g3{
+display: flex;
+justify-content: space-between;
+
+}
+.c{
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 10px;
+margin-right: 8px;
+margin-left: 20px;
+margin-top: 80px;
+border: 3px solid rgb(172, 167, 247);
+border-radius: 50px ;
+box-shadow: 5px 5px 10px rgb(115, 32, 232);
+
+}
+.imge4{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-right: 4px solid;
+    border-bottom: 4px solid ;
+    border-color: rgb(168, 168, 255);
+    box-shadow: 7px 5px 50px rgb(126, 103, 255) ;
+    width: 200px;
+    height: 150px;
+    border-radius: 50px;
+    
+}
+.html{
+    display: flex;
+flex-direction: column;
+align-items: center;
+gap: 10px;
+margin-right: 8px;
+margin-left: 20px;
+margin-top: 80px;
+border: 3px solid rgb(172, 167, 247);
+border-radius: 50px ;
+box-shadow: 5px 5px 10px rgb(115, 32, 232);
+
+}
+.imge5{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-right: 4px solid;
+    border-bottom: 4px solid ;
+    border-color: rgb(168, 168, 255);
+    box-shadow: 7px 5px 50px rgb(126, 103, 255) ;
+    width: 200px;
+    height: 150px;
+    border-radius: 50px;
+       
+}
+
+.css{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-right: 8px;
+    margin-left: 20px;
+    margin-top: 80px;
+    border: 3px solid rgb(172, 167, 247);
+    border-radius: 50px ;
+    box-shadow: 5px 5px 10px rgb(115, 32, 232);
+    
+}
+.imge6{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-right: 4px solid;
+    border-bottom: 4px solid ;
+    border-color: rgb(168, 168, 255);
+    box-shadow: 7px 5px 50px rgb(126, 103, 255) ;
+    width: 200px;
+    height: 150px;
+    border-radius: 50px;
+
+}
+.js{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-right: 8px;
+    margin-left: 20px;
+    margin-top: 80px;
+    border: 3px solid rgb(172, 167, 247);
+    border-radius: 50px ;
+    box-shadow: 5px 5px 10px rgb(115, 32, 232);
+ 
+}
+.imge7{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-right: 4px solid;
+    border-bottom: 4px solid ;
+    border-color: rgb(168, 168, 255);
+    box-shadow: 7px 5px 50px rgb(126, 103, 255) ;
+    width: 200px;
+    height: 150px;
+    border-radius: 50px;
+
+}
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
